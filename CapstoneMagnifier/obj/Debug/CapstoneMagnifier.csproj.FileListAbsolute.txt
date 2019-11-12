@@ -1,0 +1,7 @@
+C:\Users\song\source\repos\CapstoneMagnifier\bin\Debug\CapstoneMagnifier.exe.config
+C:\Users\song\source\repos\CapstoneMagnifier\bin\Debug\CapstoneMagnifier.exe
+C:\Users\song\source\repos\CapstoneMagnifier\bin\Debug\CapstoneMagnifier.pdb
+C:\Users\song\source\repos\CapstoneMagnifier\obj\Debug\CapstoneMagnifier.csprojAssemblyReference.cache
+C:\Users\song\source\repos\CapstoneMagnifier\obj\Debug\CapstoneMagnifier.csproj.CoreCompileInputs.cache
+C:\Users\song\source\repos\CapstoneMagnifier\obj\Debug\CapstoneMagnifier.exe
+C:\Users\song\source\repos\CapstoneMagnifier\obj\Debug\CapstoneMagnifier.pdb
