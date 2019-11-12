@@ -1,0 +1,9 @@
+C:\Users\Song\source\repos\NoonUI\NoonUI\bin\Debug\NoonUI.exe.config
+C:\Users\Song\source\repos\NoonUI\NoonUI\bin\Debug\NoonUI.exe
+C:\Users\Song\source\repos\NoonUI\NoonUI\bin\Debug\NoonUI.pdb
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.csprojAssemblyReference.cache
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.Form1.resources
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.Properties.Resources.resources
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.csproj.GenerateResource.cache
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.exe
+C:\Users\Song\source\repos\NoonUI\NoonUI\obj\Debug\NoonUI.pdb
