@@ -127,7 +127,6 @@
             this.Controls.Add(this.Magnify);
             this.Controls.Add(this.Eyetracker);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Location = new System.Drawing.Point(1300, 910);
             this.Name = "Form1";
             this.Opacity = 0.9D;
             this.ShowIcon = false;

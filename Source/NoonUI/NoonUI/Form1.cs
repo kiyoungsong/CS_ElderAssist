@@ -14,6 +14,7 @@ namespace NoonUI
 {
     public partial class Form1 : Form, IMessageFilter
     {
+        //내레이터와 화상키보드 사용을 위한 참조
         [DllImportAttribute("user32.dll")]
         public static extern int SendMessage(IntPtr hWnd, int Msg, int wParam, int lParam);
         [DllImportAttribute("user32.dll")]
@@ -34,10 +35,13 @@ namespace NoonUI
         {
             InitializeComponent();
             Application.AddMessageFilter(this);
-
+            
             controlsToMove.Add(this);
             IntPtr wow64Value = IntPtr.Zero;
             Wow64DisableWow64FsRedirection(ref wow64Value);
+            //폼 위치
+            this.StartPosition = FormStartPosition.Manual;
+            this.Location = new Point(Screen.PrimaryScreen.WorkingArea.Width - 617, Screen.PrimaryScreen.WorkingArea.Height - 125);
 
         }
 
@@ -127,6 +131,7 @@ namespace NoonUI
             Dispose();
         }
 
+        //버튼 색깔 초기화
         private void Form1_Load(object sender, EventArgs e)
         {
             if (Process.GetProcessesByName("Magnify").Length > 0)
@@ -139,7 +144,7 @@ namespace NoonUI
 
             if (Process.GetProcessesByName("osk").Length > 0)
             { Keyboard.BackColor = Color.LightGray; }
-            else { Keyboard.BackColor = Color.Transparent; }
+            else { Keyboard.BackColor = Color.Transparent; } 
         }
 
         public bool PreFilterMessage(ref System.Windows.Forms.Message message)
