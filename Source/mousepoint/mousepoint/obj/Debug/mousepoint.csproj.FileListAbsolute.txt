@@ -1,0 +1,6 @@
+C:\Users\Song\source\repos\mousepoint\mousepoint\obj\Debug\mousepoint.csprojAssemblyReference.cache
+C:\Users\Song\source\repos\mousepoint\mousepoint\bin\Debug\mousepoint.exe.config
+C:\Users\Song\source\repos\mousepoint\mousepoint\bin\Debug\mousepoint.exe
+C:\Users\Song\source\repos\mousepoint\mousepoint\bin\Debug\mousepoint.pdb
+C:\Users\Song\source\repos\mousepoint\mousepoint\obj\Debug\mousepoint.exe
+C:\Users\Song\source\repos\mousepoint\mousepoint\obj\Debug\mousepoint.pdb
